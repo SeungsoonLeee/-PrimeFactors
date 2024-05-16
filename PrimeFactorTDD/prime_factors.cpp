@@ -9,6 +9,9 @@ public:
 		if (num == 2) {
 			ret.push_back(2);
 		}
+		if (num == 3) {
+			ret.push_back(3);
+		}
 		return ret;
 	}
 };
